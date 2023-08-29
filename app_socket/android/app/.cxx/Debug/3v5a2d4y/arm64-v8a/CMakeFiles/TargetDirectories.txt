@@ -1,0 +1,3 @@
+/Users/apple/Desktop/my-django/app_socket/android/app/.cxx/Debug/3v5a2d4y/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/apple/Desktop/my-django/app_socket/android/app/.cxx/Debug/3v5a2d4y/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/apple/Desktop/my-django/app_socket/android/app/.cxx/Debug/3v5a2d4y/arm64-v8a/CMakeFiles/convertImage.dir

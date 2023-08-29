@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/apple/Desktop/my-django/app_socket/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/apple/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/apple/Desktop/my-django/app_socket/android/app/.cxx/Debug/5b701o05/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/apple/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/apple/Desktop/my-django/app_socket/android/app/.cxx/Debug/5b701o05/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "convertImage::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "convertImage",
+      "output": "/Users/apple/Desktop/my-django/app_socket/build/app/intermediates/cxx/Debug/5b701o05/obj/x86/libconvertImage.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/apple/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/apple/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

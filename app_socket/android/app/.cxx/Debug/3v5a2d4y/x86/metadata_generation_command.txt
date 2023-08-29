@@ -1,0 +1,18 @@
+                    -H/Users/apple/Desktop/my-django/app_socket/android
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=23
+-DANDROID_PLATFORM=android-23
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/apple/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_ANDROID_NDK=/Users/apple/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_TOOLCHAIN_FILE=/Users/apple/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/apple/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/apple/Desktop/my-django/app_socket/build/app/intermediates/cxx/Debug/3v5a2d4y/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/apple/Desktop/my-django/app_socket/build/app/intermediates/cxx/Debug/3v5a2d4y/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/apple/Desktop/my-django/app_socket/android/app/.cxx/Debug/3v5a2d4y/x86
+-GNinja
+                    Build command args: []
+                    Version: 2
